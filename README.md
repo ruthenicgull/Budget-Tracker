@@ -6,6 +6,7 @@ It lets you add and delete entries having the following details:
 - Description
 - Type (Income/Expense)
 - Amount
+
 It also displays a 'Total' which is you total income subtracted by you total expenses.
 
 The file names are easy to understand.
